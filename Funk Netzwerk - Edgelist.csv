@@ -1,0 +1,14 @@
+from,to,weight,relationship
+FS,PA,3,2
+FS,RB,2,8
+FS,DF,3,4
+RB,AB,2,2
+RB,F,3,4
+JS,AA,3,2
+GO,Y,3,4
+DL,Y,3,4
+GO,DL,3,2
+PA,DF,3,4
+AB,F,3,4
+JS,S,3,4
+AA,S,3,4
